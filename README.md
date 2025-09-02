@@ -8,8 +8,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Cricket](https://img.shields.io/badge/Cricket-FF4500?style=for-the-badge&logo=sports&logoColor=white)
 ![Filmmaking](https://img.shields.io/badge/Filmmaking-8A2BE2?style=for-the-badge&logo=video&logoColor=white)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavbalijepalli)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
+
+
 **abhinavbalijepalli/abhinavbalijepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,5 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavbalijepalli)](https://github.com/anuraghazra/github-readme-stats)
--->
